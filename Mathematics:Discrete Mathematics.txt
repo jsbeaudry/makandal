@@ -1,0 +1,7 @@
+Page 1
+
+Diskrè Matematik se yon branch nan matematik ki konsantre sou etid inite yo ki ka konte youn pa youn, tankou nimerasyon, estrikti matematik fini oswa konte-konbyen. Li diferan de matematik kontinyèl paske li pa konsidere kantite ki chanje san rete oswa kantite reyèl. Diskrè Matematik gen anpil aplikasyon nan syans enfòmatik, lojik, kriptografi ak anpil lòt domèn. Yon nan prensipal sijè nan Diskrè Matematik se teyori ansanm, ki pèmèt nou konprann kijan koleksyon eleman diferan klase, konbine, oswa divize.
+
+Nan teyori ansanm, youn nan prensip fondamantal se konsèp yon ansanm, ki se yon koleksyon nan eleman distenk. Yon ansanm ka gen eleman tankou chif, lèt, oswa objè matematik diferan. Nou itilize sentaks tankou {a, b, c} pou reprezante yon ansanm ki gen twa eleman. Genyen tou ansanm vid la, ki pa gen okenn eleman ladan l. Nou ka konbine ansanm pa fè inyon (mete tout eleman nan de ansanm nan yon sèl ansanm san repete), entèseksyon (jwenn eleman ki komen nan de ansanm), oswa diferans (eleman ki nan premye ansanm ki pa nan dezyèm lan).
+
+Yon lòt sijè enpòtan nan Diskrè Matematik se relasyon ak fonksyon. Relasyon se yon fason pou konekte de ansanm oswa plis atravè yon règ patikilye. Lè yon relasyon pase plizyè apeprè globalman nan yon fason espesifik, nou rele sa yon fonksyon. Yon fonksyon asosye chak eleman nan yon ansanm premye (domèn) ak yon s

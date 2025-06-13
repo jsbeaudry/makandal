@@ -1,0 +1,116 @@
+Paj 1: Elektromayetik - Yon entwodiksyon an Kreyòl Ayisyen
+
+Elektromayetik se yon branch fizik ki etidye fenomèn elektrik ak mayetik ansanm. Li esplike jan chaj elektrik ak chan mayetik travay ansanm pou pwodwi yon sèl fòs, yon fòs elektromayetik. Elektromayetik enpòtan anpil nan lavi chak jou paske li gouvène anpil aparèy tankou limyè, radyo, televizyon, ak anpil lòt teknoloji modèn. Premye moun ki te etidye relasyon ant elektrisite ak mayetis se te Hans Christian Ørsted nan lane 1820, lè li dekouvri yon kouran elektrik ka jenere yon chan mayetik alantou yon fil.
+
+Lè yon chaj elektrik deplase, li kreye yon chan mayetik lakay l. Sa vle di ke kouran elektrik pa sèlman pote elektrisite, men li kapab tou pwodwi fòs mayetik. Sa ede nou konprann diferan aparèy elektrik tankou motè, djanm, transfòmatè, ak motè elektrik. Elektwomayetik egziste nan yon seri fenomèn ki gen rapò ak enèji, imè, ak fòs. Fò a ki parèt se youn nan kat fòs fondamantal nan lanati, ansanm ak fòs gravite, fòs nikleyè fèb, ak fòs nikleyè fò.
+
+Nan literati fizik, James Clerk Maxwell te fè yon gwo kontribisyon nan dezyèm mwatye nan 19yèm syèk la lè li te mete tout konesans sa yo ansanm nan sa nou rele ekwasyon Maxwell yo. Ekwasyon sa yo montre kijan chan elektrik ak chan mayetik ka interagi youn ak lòt e yo egziste kòm ondo electromayetik, tankou limyè. Limyè se yon fòm ondo electromayetik ki vwayaje nan espas ak nan lè.
+
+Prensip fondamantal nan Elektromayetik eksplike fòs ki egziste ant chaj elektrik. Chaj elektrik ka swa positif oswa negatif, epi se atraksyon oswa repulsyon ant chaj sa yo k ap anpil syans fizik. Nan yon ekipman elektrik, konprann ki jan kouran elektrik la sèvi, ki jan li pwodwi fòs mayetik, e kijan varyasyon nan kouran an fè yon chan mayetik varye esansyèl pou devlopman teknoloji.
+
+Nan pwochen paj la, n ap fouye antre nan chaj elektrik, ki jan li klase, epi kijan fòs elektrik manifeste. Nou pral eksplike tou legge Coulomb ki defini fòs elektrik ant chaj tèt yo. Elektromayetik gen yon je ewo ki rele elèktron, patikil ki posede chaj negatif. Se mouvman elèktron nan yon fil kondiktè ki lakoz kouran elektrik, ak mouvman sa a sèvi pou bay lavi aparèy elektrik atravè mond lan.
+
+Paj 2: Chaj Elektrik ak Fòs Coulomb
+
+Chaj elektrik se yon pwopriyete fizik ki bay patikil yo kapasite pou fè fòs elektrik youn sou lòt. Gen de tip chaj: chaj pozitif ak chaj negatif. Sa nou konnen se ke chaj ki menm kalite (pozitif ak pozitif oswa negatif ak negatif) ap repouse youn lòt, pandan ke chaj ki opoze (pozitif ak negatif) atire youn lòt. Sa se yon fenomèn ki sitou obsève nan patikil fondamantal tankou elektròn ak pwoton.
+
+Lwa Coulomb, ki te dekouvri pa fiziksyen franse Charles-Augustin de Coulomb, defini fòs ki egziste ant de chaj elektrik. Fò a pwopòsyonèl ak pwodui valè de chaj yo, epi li envèsman pwopòsyonèl ak kare distans ant yo. An plis, fòs la aji sou liy ki konekte de chaj yo. Si nou gen de chaj q1 ak q2 ak yon distans r ki se distans ant yo, fòs elektrik F egzèse avèk fòmil:
+
+F = k * |q1 * q2| / r²
+
+Kote k se yon konstan Coulomb ki depann de mwayen kote yo ye a. Nan lè a, valè k egal apeprè 8.9875 × 10^9 N·m²/C²
+
+Se lwa sa a ki montre ke si distans ant chaj yo ogmante, fòs atire oswa repouse diminye trè rapid. Konsa, patikil chaje prea vin pi fèb atire oswa repouse si yo ale pi lwen youn ak lòt.
+
+Nan eksperyans laboratwa, yo itilize lwa Coulomb pou kalkile efè fòs elektrik nan sistèm patikil chaje. Jan sa mache a, patikil ki ase pre y ap gen yon entèraksyon fò, sa ki gen enpòtans pou konprann kijan pwopriyete materyèl elektrik fonksyone.
+
+Nan lavi chak jou, chaj elektrik se sa ki fè bagay rale oswa pouse youn lòt. Lè ou fwote yon baton an plimen sou yon moso twal, ou ka jwenn elektrisite estatik, yon egzanp pratik nan chaj elektrik. N ap diskite plis sou fenomèn sa yo nan paj kap vini an.
+
+Paj 3: Kouran elektrik ak chan elektrik
+
+Kouran elektrik se yon koule nan chaj elektrik nan yon mwayen konduktan tankou fil kwiv. Kouran an defini kòm kantite chaj ki pase nan yon pwen nan sikwi a pa youn nan chak segonn. Unité kouran an se ampè, ki reprezante yon coulomb chaj ki pase pa dezyèm nan. Une kouran dirèk (DC) oswa kouran altène (AC) egziste selon direksyon chaj kap sikile yo.
+
+Chan elektrik se yon espas kote yon chaj elektrik gen kapasite pou santi yon fòs. Se yon fason pou montre efè yon chaj san yo pa bezwen li an kontak dirèk. Chan elektrik la reprezante ak liy fiktif ki montre direksyon ak entansite fòs la: liy ki soti nan chaj pozitif yo epi li antre nan chaj negatif yo.
+
+Valè entansite chan elektrik la depann de kantite chaj ki pwodui li ak distans kote n ap mezire li a. Yon fòs elektrik sou yon chaj q nan yon chan elektrik E bay fòs: F = qE.
+
+Nan aparèy elektrik, chan elektrik ka pwodwi pa batri oswa lòt sous kouran elektrik. Anplis, chan elektrik la enpòtan nan anpil teknoloji tankou kondansatè, ki sèvi pou estoke chaj elektrik ak enèji nan sikwi.
+
+Nan yon fil kondiktè, kouran elektrik la se flux elektwon ki deplase anba enfliyans chan elektrik la. Sa fè kouran kontwole ak manipile pou bay fonksyon itil tankou limyè, chofaj, oswa kominikasyon.
+
+Paj 4: Fòs mayetik ak chan mayetik
+
+Fòs mayetik se yon fòs ki manifeste ant objekt ki gen mayetis oswa k ap deplase chaj elektrik. Lè chaj elektrik deplase (pa egzanp, elektròn ki ap sikile nan yon fil), li kreye yon chan mayetik ki ka fè mouvman oswa fòs sou lòt chaj kap deplase oswa materyèl magnètik.
+
+Chan mayetik yo reprezante avèk liy ki fè bouch ki soti nan pòzitif nan yon mayetik (nòd kat) ale nan negatid (sid kat). Sa fè konnen ke chan mayetik pa janm fini, li toujou fè yon sik konplè.
+
+Fòmil Biot-Savart sèvi pou kalkile chan mayetik ki kreye pa yon kouran nan yon fil. Chan mayetik la gen yon entansite ki depann de entansite kouran an ak distans soti nan fil la.
+
+Fòs Lorentz defini fòs ki aplike sou yon patikil chaje k ap deplase nan yon chan elektrik ak mayetik ansanm. Fò a se:
+
+F = q (E + v × B)
+
+Kote q se chaj la, E se chan elektrik la, v se vitès patikil la, ak B se chan mayetik la.
+
+Fòs mayetik gen yon aplikasyon enpòtan nan motè elektrik ak dinamo, kote mouvman kreyòl k ap pwodwi pa chan mayetik ede transfòme enèji elektrik an enèji mekanik.
+
+Nan lavi chak jou, anpil aparèy tankou yon konpa, transformers, ak radyo sèvi ak pwopriyete mayetik pou fonksyone. Mayetis natirèl tankou magnetit nan tè a pote yon chan mayetik ki enfliyanse konpa yo pandan vwayaj.
+
+Paj 5: Ond elektwomayetik ak limyè
+
+Ond elektwomayetik se yon ondo ki konbine yon chan elektrik osilasyon ak yon chan mayetik osi osilasyon, sa vle di chan yo varye an menm tan atravè espas.
+
+Konsepsyon sa genyen anpil enpòtans pou limyè, radyo, mikwo ond, ak lòt reyon iman kapab resevwa oswa imèt. Onnd elektwomayetik yo vwayaje nan vid ak yon vitès konstan ki se vitès limyè a, apeprè 3 × 10^8 m/s.
+
+Frekan ond elektwomayetik la defini tip li: limyè vizib, ond radyo, mikwo ond, UV, reyon X, elatriye. Chak gen yon longèdonn diferan, sa ki asiyen pwopriyete diferan.
+
+Ekwasyon Maxwell yo montre ke limyè se yon ondo elektwomayetik ki vwayaje nan yon lantiy konplèks nan chan elektrik ak mayetik li yo. Sa eksplike lè yon pyès limyè pase nan yon lantiy oswa vle proje limyè.
+
+Aplikasyon ond elektwomayetik yo enkli kominikasyon san fil, medsin (egzamen radyografi), chak aparèy elektrik ki itilize reyon elektwomayetik.
+
+Paj 6: Transformateur ak fòs elektromayetik nan endiksyon
+
+Prensip endiksyon elektwomayetik montre ke yon chanjman nan chan mayetik nan yon sikwi kapab jenere yon vòltaj oswa kouran elektrik. Sa se prensip debaz dè transformateur ak djendjen elektwomayetik.
+
+Transformateur ranfòse oswa bese vòltaj kouran altène dapre kantite vire bobin li yo genyen. Li sèvi nan distribisyon elektrisite nan tout peyi a pou amelyore efikasite.
+
+Jan Michael Faraday te dekouvri nan lane 1831, lè chan mayetik varye atravè yon bobin, li pwodwi yon vòltaj nan bobin nan. Prensip sa a itilize nan aparèy tankou elektwomotè, djanm, ak bwat siflèt.
+
+Nan lavi pratik, endiksyon elektromayetik sèvi nan chaj telefòn san fil, anrejistreman mizik, ak anpil lòt teknoloji modèn.
+
+Paj7: Motè ak djendjen elektwomayetik
+
+Motè elektrik fonksyone avèk chan mayetik ki vyolè mouvman. Lè kouran sikile nan yon bobin nan yon chan mayetik, fòs Lorentz pouse bobin nan pou vire.
+
+Motè elektrik transforme enèji elektrik an enèji mekanik itil pou fè machin, fanatik, ak zouti mekanik travay.
+
+Djendjen elektwomayetik se aparèy ki transforme mouvman mekanik an kouran elektrik, yo itilize nan dinamo oswa jeneratè elektrik.
+
+De aparèy sa yo fèt bese depandans sou losilasyon ak fòs mayetik entèlaye, ki montre enpòtans sistèm elektwomayetik nan lavi modèn.
+
+Paj 8: Elektwomayetik nan kominikasyon
+
+Reyòd elektwomayetik yo sèvi kòm yon mwayen pou pwopaje done san fil. Radyo, televizyon, ak telefòn mobil itilize frekans radyo ak mikwo ond pou emèt ak resevwa siyal.
+
+Teknoloji satelit baze sou sodji elektwomayetik atravè espas pou transmèt imaj ak vwa aleka.
+
+Liy fib optik itilize limyè kòm mwayen kominikasyon trè vit, baze sou ond elektwomayetik nan limyè vizib oswa infravyolèt.
+
+Paj 9: Efè elektwomayetik nan materyèl
+
+Materyèl diferan reponn a chan elektrik ak mayetik de fason diferan selon pwopriyete yo.
+
+Kondiktè kite chaj sikile fasil, izolan pa kite kouran pase.
+
+Materyèl feromayetik tankou fè gen yon kapasite pou atire oswa jenere yon chan mayetik fò.
+
+Superconducteurs se materyèl ki pa gen rezistans elektrik sou yon tanperati ba, sa ki ede kreye pwodui elektwomayetik avanse.
+
+Paj 10: Elektwomayetik ak enpak li sou sosyete
+
+Elektromayetik gen yon enpak majè nan devlopman teknolojik nan pase 200 lane. Li chanje fason moun viv, travay, epi kominike.
+
+Li pote avni nan medsin, tankou nan imaging ak terapi radyasyon.
+
+Teknoloji elektwomayetik la gen enpak sou anviwònman. Se yon defi pou devlope teknoloji ki piti polye tè ak lè.
+

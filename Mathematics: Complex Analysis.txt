@@ -1,0 +1,211 @@
+Paj 1: Entwodiksyon nan Analiz Konplèks
+
+Analiz konplèks se yon branch nan matematik ki etidye fonksyon ki genyen varyab konplèks. Yon varyab konplèks gen de pati: yon pati reyèl ak yon pati imajinè. Nou ka ekri yon kantite konplèks z tankou z = x + iy, kote x se pati reyèl la, y se pati imajinè a, epi i satisfè ekwasyon i² = -1. Analiz konplèks itil anpil nan plizyè domèn tankou fizik, enjenyri, ak limyè teyori. Li diferan de analiz reyèl paske eleman yo pi rich ak konplèks nan nati, sa ki pèmèt plizyè teknik ak rezilta spesifik. Nan analiz konplèks, nou ezamine pwopriyete fonksyon konplèks yo, tankou diferansyabilite, entegrasyon, ak ekspansyon.
+
+Yon nan ide fondamantal nan analiz konplèks se konsèp de yon fonksyon konplèks holomòf. Yon fonksyon holomòf se yon fonksyon ki gen yon derive konplèks nan tout pwen nan yon domèn ouvè. Sa vle di fonksyon an pa sèlman derivab nan sans reyèl, men tou li swiv règleman sa yo nan tout direksyon konplèks la. Sa gen enplikasyon pwofon sou fòm ak konpòtman fonksyon an.
+
+Lòt konsèp enpòtan se diferansyabilite Cauchy-Riemann yo, ki montre kondisyon ki dwe satisfè pou yon fonksyon konplèks pou li holomòf. Nou ka ekri fonksyon an kòm f(z) = u(x, y) + i v(x, y), kote u ak v se fonksyon reyèl de de varyab reyèl x ak y. Kondisyon Cauchy-Riemann yo se yon seri ekwasyon diferansyèl ki fòse relasyon ant derive pwopaje u ak v yo pou asire holomorfism.
+
+Analiz konplèks gen yon gwo seri aplikasyon teknik, nan elektwomayetik, mekanik kvantik, ak pa sèlman. Li vin tounen yon zouti enpòtan poutèt kapasite li pou rezoud pwoblèm ki pa fasil nan analiz reyèl sèlman. Anplis de sa, entegral nan plan konplèks, tankou entegral liy ak entegral kontou, bay règ presi tankou fòmil Cauchy a, ki ede evalye entegral difisil fasilman.
+
+Nan analiz konplèks, nou tou abòde nan teyori seri, tankou seri Taylò ak Laurent yo, ki pèmèt nou reprezante fonksyon konplèks kòm yon som enfini nan pouvwa, sa ki pèmèt etidye pwòksimasyon ak singularite fonksyon yo nan diferan zòn nan plan konplèks la.
+
+Nan premye paj sa a, nou pran yon poz ak reflechi sou enpòtans analiz konplèks epi fè yon rapèl sou eleman debaz tankou kantite konplèks, derive konplèks, ak kondisyon Cauchy-Riemann ki mete baz pou tout etid ki vin apre a nan domèn sa a.
+
+Paj 2: Kantite Konplèks ak Jeyometri nan Plan Konplèks
+
+Plan konplèks la reprezante tout kantite konplèks kòm pwen nan yon plan de dimansyon. Chak kantite konplèks z = x + iy koresponn ak pwen (x, y) nan plan sa a, kote aks orizontal la senbolize pati reyèl la x, epi aks vètikal la senbolize pati imajinè a y. Sa fè plan an vin yon reprezantasyon jeyometrik ki fasilite manyen kantite ak fonksyon konplèks yo.
+
+Nan plan sa a, distans ant pwen z = x + iy ak orijin an 0 + 0i se modil z la, note |z|, e li defini tankou |z| = √(x² + y²). Modil sa a bay nou yon mezi sou jan kantite a "gwo" nan yon sans jeyometrik. Yon lòt karakteristik se agiman z, ki se ang ant vektè ki sòti nan orijin an rive nan pwen z, ak aks reyèl pozitif la. Agiman an rele souvan θ e li mezire nan radian oswa degre.
+
+Nou ka ekri kantite konplèks nan fòm polè: z = r(cos θ + i sin θ), kote r = |z| e θ = arg(z). Fòm polè a trè pratik nan analyz konplèks paske li fè miltiplikasyon ak divizyon kantite vin pi senp: modil yo miltipliye oswa divize, e agiman yo senpleman ajoute oswa soustra.
+
+Yon anvway nan fòm sa a se fòm eksponansyèl: d-aprè fòmil Euler, cos θ + i sin θ = e^{iθ}, sa ki pèmèt ekri z = r e^{iθ}. Ekspresyon sa a vin baz anpil pwosesis nan analiz konplèks, espesyalman nan rezoud ekwasyon diferansyèl ak nan etid oscillasyon.
+
+Transfòmasyon jeyometrik nan plan konplèks, tankou refleksyon, dilatasyon, wotasyon, ak translasyo, ka eksprime fasil avèk kantite konplèks. Pa egzanp, miltiplikasyon pa yon kantite konplèks inite (ki gen modil 1) fè wotasyon nan plan an. Sa eksplike poukisa analiz konplèks enpòtan nan jeyometri ak nan aplikasyon syantifik kote mouvman nan yon avyon bezwen dekri avèk presizyon.
+
+Nou pale tou de distans, entèval, ak limit nan plan konplèks, ki sèvi kòm baz pou defini lòt konsèp tankou kontinwite, derivabilite, ak entegrabilite fonksyon yo. Sa montre ke plan konplèks se yon espas metrik, ki pèmèt aplike teknik kalkil avanse.
+
+Sonje byen, jeyometri kantite konplèks pa sèlman yon zouti vizyalizasyon, men li ofri yon metòd dirèk pou kalkile ak konprann pwopriyete fonksyon konplèks, ki pral utilize anpil nan analiz fonksyonèl plis avanse.
+
+Paj 3: Fonksyon Konplèks ak Kontinwite
+
+Yon fonksyon konplèks se yon fonksyon ki pran yon kantite konplèks kòm antre epi bay yon lòt kantite konplèks kòm sòti. Nou konsidere fòm jeneral f(z) kote z se yon kantite konplèks. Fonksyon sa yo ka reprezante aljèbikman tankou f(z) = (3 + 2i) z^2 - i z + 7, oswa pi konplèks toujou, tankou fonksyon eksponansyèl ak logaritmik.
+
+Pou etidye fonksyon sa yo, premye nou egzaminen ide de kontinite. Yon fonksyon f(z) se kontinyèl nan yon pwen z₀ si, lè z ap pwoche z₀ nan plan konplèks la, valè f(z) ap pwoche f(z₀). Nan lòt mo, nenpòt ti chanjman nan z lakòz yon ti chanjman nan f(z).
+
+Kontinwite se yon kondisyon fondamantal pou kapab defini derive yon fonksyon. Sa vle di si yon fonksyon pa kontinyèl nan yon pwen, li pap gen derive ladan li. Sepandan, li posib pou yon fonksyon kontinyèl nan yon pwen men ki pa derivab, yon bagay ke nou kapab analize nan ka fonksyon popilè.
+
+Nou egzamine tou zouti limit yo nan konteks kantite konplèks. Limit se yon limit kondisyonèl ki endike konpòtman f(z) lè z ap pwoche yon valè espesifik. Diferans prensipal ak analiz reyèl se ke la nan plan konplèks gen yon kantite enfini de chemen posib pou z apwoche yon pwen, kidonk limit dwe egziste konsa nan tout direksyon sa yo pou egzistans li.
+
+Yon lòt konsèp enpòtan nan fonksyon konplèks se imaj fonsksyon an: si A se yon seri de pwen nan plan konplèks la, imaj f(A) se ansanm de valè f(z) pou tout z nan A. Moun etidye fason seri ak imaj fonksyon an chanje anba transfòmasyon konplèks.
+
+Analiz konplèks sèvi ak fonksyon ki gen baryè, sa vle di yo ka pran valè illimité oubyen trè konplike nan kèk pwen (singularite). Nou bezwen teste sansiblite fonksyon an devan ti perturbasyon, kapab rezoud pwoblèm nan kontinwite.
+
+Anplis, nou etidye fonksyon konplèks nan tèm de konvèjans seri, ki se yon som enfini valè f(z). Sa fè fonksyon sa yo yon sijè rich nan teyori ak aplikasyon pratik. Nou ap tann aprann kijan pou determinen domèn kote fonksyon sa yo ka sensè kontinyèl ak byen konpòte.
+
+Paj 4: Diferansyabilite Konplèks ak Kondisyon Cauchy-Riemann
+
+Yon nan pwen kle nan analiz konplèks se definisyon derive yon fonksyon konplèks f nan yon pwen z₀. Derive f nan pwen z₀ egziste si limit
+
+[
+\lim_{h \to 0} \frac{f(z_0 + h) - f(z_0)}{h}
+]
+
+la egziste san depann sou direksyon kote h pwoche 0 la nan plan konplèks la.
+
+Depi gen anpil direksyon nan plan an, kondisyon sa a pi fò pase diferansyabilite nan analiz reyèl. Sa mennen nou nan ekwasyon Cauchy-Riemann yo, ki bay kondisyon egzatman sou pati reyèl ak imajinè yon fonksyon f(z) = u(x, y) + i v(x, y) pou fonksyon an ka derivab konplèks.
+
+Ekwasyon sa yo se:
+
+[
+\frac{\partial u}{\partial x} = \frac{\partial v}{\partial y}, \quad \frac{\partial u}{\partial y} = -\frac{\partial v}{\partial x}
+]
+
+Lè de fonksyon u ak v satisfè kondisyon sa yo epi yo gen derive premye kontinyèl, f se holomòf nan domèn kote kondisyon yo reyalize. Sa fè f vin derivab konplèks nan tout domèn sa.
+
+Du sa, f genyen derive senp devan kantite konplèks ki pèmèt entèprete fonksyon an kòm yon fonksyon exfolyat. Li diferansyab nan tout direksyon nan plan an.
+
+Analiz fonksyon holomòf se trè rich: fonksyon sa yo gen anpil pwopriyete ekstrèmman itil. Pou egzanp, yo toujou satisfè ekwasyon Laplace a, kidonk u ak v yo se fonksyon armonik.
+
+Kondisyon Cauchy-Riemann yo sèvi kòm zouti pou verifye si yon fonksyon se holomòf. Yo tou ouvè pòt pou plizyè teyorèm enpòtan tankou teyorèm Cauchy ak fòmil integral Cauchy ki egzije fonksyon an dwe holomòf nan domèn konsidere a.
+
+Sonje byen, kondisyon Cauchy-Riemann yo pa sèlman yon kondisyon matematik, yo eksplike yon korespondans ant kalkil derive reyèl ak kalkil derive konplèks, transfòme fason nou konprann fonksyon an nan plan an.
+
+Paj 5: Fonksyon Holomòf, Analitik, ak Pwopriyete Kle yo
+
+Yon fonksyon f se holomòf si li derive nan yon vwazinaj nan chak pwen nan yon domèn nan plan konplèks la. Fonksyon ki satisfè kondisyon sa yo rele analitik, sa vle di fonksyon an ka eksprime kòm yon seri pouvwa Taylò nan tout pwen nan domèn lan.
+
+Teyorèm Taylò se yon pati fondamantal nan analiz konplèks: li di ke si f holomòf nan yon pwen z₀, li kapab ekri konsa:
+
+[
+f(z) = \sum_{n=0}^\infty a_n (z - z_0)^n
+]
+
+kote aₙ yo se koefisyan ki kalkile ak derive f an pwen z₀.
+
+Fonksyon analitik la se kontinuèl, derivab, epi pwèt pou l reprann kèlkeswa valè f nan yon katye tou piti bò kote z₀. Sa fè fonksyon holomòf trè regilye ak senbolize yon kalite "perfe" nan analiz konplèks.
+
+Epi nou gen de vèsyon yo rele fonksyon meromòf, ki se fonksyon analitik eksepte nan kèk singularite, kote yo gen yon pwen disrè valab. Sa pèmèt gwo fleksibilite nan modèl matematik ak aplikasyon.
+
+Pwopriyete fonksyon holomòf yo enkli:
+
+Yo satisfè kondisyon Cauchy-Riemann anvan nan tout pwen.
+Yo se solisyon ekwasyon Laplace a.
+Yo genyen yon fòm aplikasyon nan seri pwisan Taylò, permettant d’analiz lokal fonksyon an.
+Yo suiv prensip maksimòm: yo pa ka genyen maksimòm lokal aparti nan sant domèn nan.
+Anatandan fonksyon sa yo jwe yon wòl nan solisyon pwoblèm fizik, eleman nan modèl diferan sistèm dinamik, e yo sèvi kòm blòk fondamantal pou plizyè bay espas fonksyonèl nan matematik modèn.
+
+Youn nan pratik ki enpòtan se konnen kijan pou verifye ak kalkile derive yon fonksyon konplèks, ki pèmèt nou metriz mouvman fonksyon an e obsève konpòtman li nan zòn enterese.
+
+Paj 6: Entègrasyon Fonksyon Konplèks: Chemen ak Kontou
+
+Nan analiz konplèks, entègrasyon pran yon apwofondisman espesyal. Nou entegre fonksyon yo pa swiv yon chemen nan plan konplèks la. Yon chemen C se yon fòm parametrize ki bay yon trajè pou vwayaje nan plan konplèks.
+
+Entegral sou chemen se yon entegral liy: sa vle di fòk nou pran an kont varyab yo, chanjman pozisyon e fòm chemen an. Yon entegral sou yon fonksyon f sou chemen C defini tankou:
+
+[
+\int_C f(z) dz
+]
+
+sa vle di entegre valè f parallèl ak mouvman sou kontou C la.
+
+Youn nan rezilta kle nan analiz konplèks se teyorèm Cauchy: si yon fonksyon se holomòf nan yon domèn e C yon kontou fèmen nan domèn sa a, entegral kouri sou C la egal zero. Sa gen gwo efè sou evalyasyon entegral yo epi pouswiv metòd rezoud konplèks.
+
+Teoryòm Cauchy a bay rekòmandasyon ke entegral simulate pa depann sou chemen sèlman, si chemen yo ka dekonekte san pase deyò domèn holomòf. Sa facilite kalkil entegral lè yon kontou itilize olye yon chemen prive.
+
+Youn lòt resous enpòtan se fòmil integral Cauchy, ki di:
+
+[
+f(z_0) = \frac{1}{2\pi i} \int_C \frac{f(z)}{z - z_0} dz
+]
+
+pireske nenpòt fonksyon holomòf ka detèmine pa valè li sou yon kontou fèmen.
+
+Ete an fen, analiz entegral nan plan konplèks bay pi bon zouti pou fabrikasyon modèl matematik, evalyasyon limit, ak yon gran varyete aplikasyon aplikab nan ekonomi, fizik, ak syans jeneral.
+
+Paj 7: Seri Taylò ak Laurent nan Analiz Konplèks
+
+Kòm nou te wè, fonksyon holomòf ka repwezante ak seri pouvwa, sa ki pèmèt etidye fonksyon an nan vwazinaj yon pwen espesifik.
+
+Seri Taylò a pran fòm:
+
+[
+f(z) = \sum_{n=0}^\infty a_n (z - z_0)^n
+]
+
+li konvèje nan yon disk ak sant nan z₀, kote r ap fèt tankou r = limit distans sere seri a.
+
+Sa pèmèt kalkile valè fonksyon an pa kraze l an plizyè eleman ki pi senp, chak reprezante yon pouvwa dezyèm nan (z - z₀).
+
+Pou fonksyon ki gen singularite (pwen kote fonksyon an pa defini, tankou yon pòl oswa yon branch lom), seri Laurent yo itil. Yo pèmèt eksprime fonksyon an kòm:
+
+[
+f(z) = \sum_{n=-\infty}^\infty c_n (z - z_0)^n
+]
+
+ekwasyon sa a gen tèm negatif, ki make prezans singularite. Seri sa a konvèje nan yon zòn annilar (yon bag ant de sèk).
+
+Seri Laurent ede define kalite singularite youn pa youn, yon aspè kle nan lokalize konpòtman fonksyon, ki esansyèl nan fizik ak analiz matematik.
+
+Aplikasyon sa yo fèt pou klasifye singularite yo nan pòl, branch point, ak singularite eliminab, e menm pèmèt defini rezidyès fonksyon an, yon valè esansyèl nan anpil teyorèm nan analiz konplèks.
+
+Konprann ak itilizasyon seri Taylò ak Laurent yo se yon pwen kle nan preparasyon pou rezoud pwoblèm ki gen singularite oswa ki mande apwòksimasyon fonksyon konplèks gwo varyete.
+
+Paj 8: Singularite, Rezidyè, ak Teyorèm Rezidyè
+
+Nan analiz konplèks, yon singularite se yon pwen kote fonksyon an pa holomòf, tipikman kote f ka vin enfini oswa pa defini. Singularite yo klase an plizyè fason, tankou pòl, singularite esansyèl, ak singularite eliminab.
+
+Pòl se singularite ki gen yon ekspansyon Laurent kote kantite tèm negatif limite, sof ke pwen an pot ansyen gen yon pouvwa negatif fini. Fonksyon gen yon pòl nan z₀ si li ka ekri konsa:
+
+[
+f(z) = \frac{g(z)}{(z - z_0)^m}
+]
+
+kote g holomòf nan z₀, epi m se yon antye pozitif.
+
+Rezidyè yon fonksyon nan yon pwen z₀ nan pòl li yo è yon koefisyan pou tèm (z - z₀)^{-1} nan seri Laurent la. Li se yon valè kle nan evalyasyon entegral kontou yo ak nan plizyè lòt aplikasyon.
+
+Teyorèm rezidyè a di ke entegral yon fonksyon holomòf alantou yon kontou fèmen se 2πi miltipliye ak sòm rezidyè fonksyon an nan singularite entèn kontou sa a.
+
+[
+\int_C f(z) dz = 2 \pi i \sum \text{rezidyè yo}
+]
+
+Sa se youn nan rezilta ki pi pwisan, ki itilize anpil pou evalye entegral difisil nan matematik ak fizik, tankou entegral Reyèl ki ta san li ta difisil pou yo evalye.
+
+Analiz rezidyè yo pèmèt tou rezoud pwoblèm tankou konte rasin ekwasyon konplèks, kalkil fonksyon specyal, ak plis ankò.
+
+Yon bon konprann sou singularite yo ak rezidyè yo enpòtan pou yon idantite klè sou konpòtman fonksyon yo nan tout pati nan plan konplèks la.
+
+Paj 9: Fonksyon Espesyal nan Analiz Konplèks
+
+Analiz konplèks gen plizyè fonksyon espesyal ki jwe wòl enpòtan. Pami yo gen fonksyon eksponansyèl konplèks e^{z}, fonksyon logarit vye z, fonksyon trigonometri konplèks (sinz, cosz), ak fonksyon hyperbolik.
+
+Fonksyon eksponansyèl konplèks fèt jan sa:
+
+[
+e^z = e^{x + i y} = e^x (\cos y + i \sin y)
+]
+
+ki se yon fòmil dirèk d'edefinisyon e esansyèl pou lòt fonksyon.
+
+Fonksyon logaritm konplèks la, log z, se inverse fonksyon an e^z, men li pa inik, paske gen infini branch diferan, sa ki pouse defini branch prensipal pou li vin tounen fonksyon.
+
+Fonksyon trigonometri konplèks yo tou fasilite e nan fòmil Euler, itilize yo nan rezoud ekwasyon diferansyèl ak analiz signal.
+
+Fonksyon hyperbolik yo definie tankou sinh z, cosh z, ak lòt, epi yo afekte pa fonksyon eksponansyèl.
+
+Analiz konplèks bay yon baz matematik pou pwogrese nan fonksyon spesyal, ki gen aplikasyon vaste nan tout syans teknik, tankou nan teori valè ekstrèm, alonjman seri, ak nan solisyon ekwasyon dòmin.
+
+Paj 10: Aplikasyon nan Fizik, Enjenieri, ak Matematik
+
+Analiz konplèks pa yon teori sèlman nan matematik, li gen anpil aplikasyon nan syans natirèl ak teknoloji. Nan fizik, li ede nan mekanik kvantik, nan elektwomayetik, ak nan estatistik.
+
+Li pèmèt rezoud plizyè kalite ekwasyon diferansyèl pa itilize fonksyon holomòf ak singularite nan kesyon, souvan evalye sistèm fizik.
+
+Nan enjenieri, analiz konplèks itilize nan analiz siyal ak sistèm, espesyalman pou transfert fonksyon, filtè RF, ak analiz rezistans, kapasitans, ak enfliyans.
+
+Nan matematik aplike, metòd rezidyè a itilize pou kalkil entegral konplèks, evalyasyon entegral reyèl difisil, ak solisyon pwoblèm kontou.
+
+An rezime, analiz konplèks ofri yon zouti inovatè ak pwisan ki gen enfliyans nan plizyè domèn, pote nouvo angajman nan analiz, kalkil, ak modèl matematik.
