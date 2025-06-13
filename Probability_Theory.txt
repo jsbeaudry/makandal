@@ -1,0 +1,45 @@
+
+
+Nan lavi chak jou, nou rankontre anpil sitiyasyon kote nou dwe pran desizyon oswa konprann chans yon bagay ka rive. Lè nou pale sou chans yon evènman, nou antre nan domèn teori pwobabilite. Pwobabilite se yon branch matematik ki etidye posiblite oswa chans pou yon evènman rive. Li itil nan anpil domèn tankou syans, ekonomi, jwe aza, medsin, epi menm nan lavi nòmal. Konprann pwobabilite ede nou pran desizyon ki baze sou bon jan analiz olye de chans sèlman.
+
+Premye bagay pou konprann nan teori pwobabilite se sa nou rele "evènman". Yon evènman se yon rezilta oswa yon gwoup rezilta nan yon eksperyans oswa yon sitiyasyon. Pou egzanp, si w ap jete yon pyès monnen, evènman an ka "tonbe fas devan" oswa "tonbe fas dèyè". Chak evènman gen yon chans li ka rive, ke nou rele pwobabilite evènman sa a.
+
+Pwobabilite evènman an se yon nimewo ant 0 ak 1. Yon pwobabilite 0 vle di evènman an pap janm rive, pandan yon pwobabilite 1 vle di evènman an ap toujou rive. Si yon evènman gen yon pwobabilite ki 0.5, sa vle di gen chans egal pou evènman an rive oswa pa rive. Nan anpil ka, nou ka eksprime pwobabilite sa a an pousantaj, tankou 50% chans.
+
+Yon lòt konsèp enpòtan se "espas echantiyon" oswa seri tout posiblite yo. Espas echantiyon an se tout rezilta ki ka gen nan yon eksperyans. Pou egzanp, si w ap jete yon fay, espas echantiyon an se 1, 2, 3, 4, 5, ak 6, paske se seks nimewo sa yo ki ka parèt. Chak rezilta nan espas sa a rele "rezilta endividyèl".
+
+Nou ka panse ak pwobabilite kòm yon zouti ki pèmèt nou evalye chans diferan evènman sòti nan espas echantiyon an. Gen kèk evènman ki konplèks epi gen plizyè rezilta. Nou rele sa evènman konpoze. Pa egzanp, lè w ap jete de fay, evènman "sòm nimewo yo egal a 7" se yon evènman konpoze paske li ka rive nan plizyè fason tankou (1,6), (2,5), oswa (3,4).
+
+Nan kalkil pwobabilite, gen yon règ fondamantal ki di total pwobabilite tout evènman posib nan espas echantiyon an dwe egal a 1. Sa vle di, si nou ajoute ansanm pwobabilite chak rezilta endividyèl, rezilta a dwe fè egzakteman 1. Sa montre ke yon bagay dwe rive nan espas echantiyon an.
+
+Yon lòt eleman enpòtan nan pwobabilite se "evènman konplemantè". Evènman konplemantè a se tout rezilta ki pa fè pati evènman orijinal la. Pou egzanp, si evènman an se tonbe fas devan, konplemantè evènman an se tonbe fas dèyè. Pwobabilite yon evènman konplemantè se 1 mwens pwobabilite evènman an.
+
+Lè nou ap kalkile pwobabilite evènman ki pa endepandan oswa ki lye, nou itilize konsèp "pwobabilite kondisyonèl". Sa vle di pwobabilite yon evènman rive, sou kondisyon yon lòt evènman deja rive. Pou egzanp, si nou konnen yon moun gen yon maladi, pwobabilite li ap gen yon lòt maladi ka diferan. Pou kalkile sa, nou itilize fòmil espesyal ki pran an kont enfòmasyon sa a.
+
+Gen yon lòt konsèp ki rele "evènman endepandan". De evènman yo endepandan si rive youn pa gen okenn enfliyans sou pwobabilite rive lòt la. Pa egzanp, lè w jete de pyès monnen separeman, rezilta premye pyès la pa afekte rezilta dezyèm pyès la. Nan ka sa, pwobabilite pou de evènman rive ansanm se pwodwi pwobabilite chak evènman.
+
+Nan lavi, anpil pwobabilite rive nan eksperyans aleatwa kote chak rezilta gen chans egal. Yo rele sa pwobabilite simetrik oswa pwobabilite klasik. Pa egzanp, si yon fay gen 6 figi, chans pou tonbe yon nimewo espesifik se 1 sou 6. Men, nan lòt sitiyasyon, chans yo ka diferan selon enfòmasyon oswa kondisyon spesifik.
+
+Yon zòn ki byen devlope nan pwobabilite se "distribisyon pwobabilite". Sa vle di fason pwobabilite divize oswa gaye sou tout posiblite nan espas echantiyon an. Distribisyon sa yo ka diferan selon kalite eksperyans lan. Pou egzanp, distribisyon pwobabilite yon pyès monnen simetrik ap montre 50% chans pou fas devan ak 50% pou fas dèyè.
+
+Gen plizyè kalite distribisyon pwobabilite. Youn nan yo se distribisyon binomial, ki itilize lè gen plizyè esè endepandan avèk de sèl rezilta posib, tankou siksè oswa echèk. Yon lòt kalite distribisyon se distribisyon nòmal, ke yo rele tou distribisyon Gaussian, ki gen fòm yon klòch epi li itilize anpil nan estatistik ak syans.
+
+Nan kalkil pwobabilite, pi souvan nou itilize fòmil matematik pou evalye chans yon evènman rive. Fòmil yo ka varye depann sou tip evènman yo. Yon fòmil esansyèl se fòmil pou "pwobabilite inyon", ki pèmèt nou konnen pwobabilite pou youn nan de evènman rive. Li itilize règleman adisyon si evènman yo pa ka rive ansanm.
+
+Si de evènman ka rive ansanm, pwobabilite inyon an se sòm pwobabilite chak evènman mwens pwobabilite pou yo rive ansanm. Sa ede evite konte menm rezilta a plizyè fwa. Nan lòt bò, règ anga pou evènman ki pa ka rive ansanm rele evènman disjwen, pwobabilite inyon an se senpleman sòm pwobabilite yo.
+
+Yon lòt aspè enpòtan nan teori pwobabilite se "valè atann" oswa espwa matematik. Li reprezante valè mwayèn oswa esperans yon pwosesis alèatwa. Pa egzanp, si w ap jwe yon jwèt aza ki gen plizyè posiblite peye diferan, valè atann ede ou konnen konbyen ou kapab espere genyen an mwayèn sou plizyè esè.
+
+Valè atann kalkile kòm yon sòm pwodui ant chak valè posib ak pwobabilite li asosye a. Sa sèvi kòm yon mezi itil pou evalye risk oswa benefis nan sitiyasyon ki gen chans. Nan ekonomi, valè atann se yon zouti fondamantal pou pran desizyon ki baze sou analiz estatistik.
+
+Teori pwobabilite sèvi tou kòm baz pou estatistik, ki se syans ki analize done pou jwenn enfòmasyon sou yon popilasyon. Lè nou pran yon echantiyon nan yon popilasyon, nou itilize teori pwobabilite pou estime paramèt popilasyon an epi evalye konfyans nou nan rezilta sa yo. Sa enpòtan anpil nan rechèch syantifik ak nan pwosesis desizyon.
+
+Yon lòt aplikasyon enpòtan se nan modèl prediksyon ak aprantisaj machin. Lè lojisyèl entèlijans atifisyèl analize gro kantite done, yo itilize modèl pwobabilite pou prevwa yon evènman oswa rezilta. Sa pèmèt sistèm yo aprann nan eksperyans yo epi amelyore apwòch yo.
+
+Nan lavi chak jou, anpil moun itilize konprann pwobabilite san yo pa konnen. Lè yon doktè bay ou chans pou yon tretman reyisi, sa baze sou pwobabilite. Lè yon jèn evalye chans li nan yon egzamen oswa nan yon konkou, li ap itilize konsèp pwobabilite. Konprann teori sa a bay moun kapasite pou konprann mond lan nan yon fason plis enfòme.
+
+Teori pwobabilite ofri yon langaj presi pou eksplike fenomèn aleatwa ki parèt nan lanati ak sosyete a. Konesans sa a ede moun evite twonpe tèt yo ak move entèpretasyon sou chans ak konsekans. Se yon zouti pou amelyore kapasite analiz nou ak pou amelyore jije nou nan sitiyasyon ki enprevizib.
+
+Pou moun ki vle jwenn plis pwofondè, gen anpil liv ak resous ki devlope matematik dèyè pwobabilite. Sa gen ladan teori ensemble, pwosesis stokastik, ak lòt branch ki pèmèt yon etid pi avanse nan fenomèn aleatwa yo. Sepandan, konesans debaz sou pwobabilite bay yon fondasyon solid pou tout moun.
+
+An rezime, pwobabilite se yon zouti esansyèl pou konprann epi jere envestisman, risk, ak chans nan divès domèn. Li baze sou definisyon klè, règleman matematik, epi li gen anpil aplikasyon pratik ki gen enpak nan lavi chak jou ak nan devlopman syantifik. Pou aprann plis, li enpòtan fè egzèsis ak egzamen ka oswa sitiyasyon reyèl ki montre aplikasyon teyori sa a.
